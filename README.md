@@ -1,1 +1,1 @@
-https://github.com/<your_github_username>/ai-nested-domains# Ai-nested-domains
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/<YOUR_USERNAME>/ai-nested-domains)
